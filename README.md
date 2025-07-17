@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/bmorphism-say-mcp-server-badge.png)](https://mseep.ai/app/bmorphism-say-mcp-server)
+
 # say-mcp-server
 <a href="https://glama.ai/mcp/servers/lmmqoe15jp"><img width="380" height="200" src="https://glama.ai/mcp/servers/lmmqoe15jp/badge" alt="Say Server MCP server" /></a>
 
